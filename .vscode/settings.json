@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "C:\\Users\\csbot\\Anaconda3\\python.exe"
+    "python.pythonPath": "C:\\Users\\csbot\\Anaconda3\\envs\\menv\\python.exe",
+    "python.venvPath": "\"python.venvPath\": \"C:/Users/csbot/Anaconda3/envs\""
 }
