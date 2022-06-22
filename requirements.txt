@@ -16,7 +16,7 @@ Keras-Applications==1.0.8
 Keras-Preprocessing==1.1.0
 lazy-object-proxy==1.4.1
 mccabe==0.6.1
-numpy==1.18.1
+numpy==1.22.0
 parso==0.5.2
 pickleshare==0.7.5
 prompt-toolkit==3.0.2
